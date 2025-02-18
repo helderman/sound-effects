@@ -8,6 +8,7 @@ Collection of sound effects I synthesized with [SoX](https://en.wikipedia.org/wi
 - [Phone DTMF dialing](mp3/phone_dtmf.mp3)
 - [Phone ringing UK](mp3/phone_ringing_uk.mp3)
 - [Phone ringing US](mp3/phone_ringing_us.mp3)
+- [Police siren](mp3/police_siren.mp3)
 - [Space Tunnel: approaching the tunnel](mp3/st_approach.mp3)
 - [Space Tunnel: explosion](mp3/st_explosion.mp3)
 - [Space Tunnel: passing through a hoop](mp3/st_pass.mp3)
