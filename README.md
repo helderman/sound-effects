@@ -3,6 +3,7 @@
 Collection of sound effects I synthesized with [SoX](https://en.wikipedia.org/wiki/SoX).
 
 - [Alarm bell](mp3/alarmbell.mp3)
+- [Pac-Man death](mp3/pacman_death.mp3)
 - [Pac-Man munch](mp3/pacman_munch.mp3)
 - [Pac-Man theme](mp3/pacman_theme.mp3)
 - [Phone DTMF dialing](mp3/phone_dtmf.mp3)
