@@ -2,7 +2,7 @@
 
 # Pac-Man 'waka' munch sound - not 100% accurate but comes pretty close
 # Reverse-engineered simply by studying the wave forms of a PCM recording of the original sound
-# Ruud Helderman, Jan-Feb 2025 - MIT License
+# Ruud Helderman, February 2025 - MIT License
 # Wave form made with phase modulation: sin(4*pi*f*t + 3*sin(2*pi*f*t + 0.5*sin(4*pi*f*t)))
 # Stepwise increase f (165/235/305/375/445 Hz, each 16.78 ms), silence 66 ms, stepwise decrease f
 
